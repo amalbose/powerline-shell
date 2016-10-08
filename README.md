@@ -1,4 +1,4 @@
-Modification of [Powerline-Shell]https://github.com/banga/powerline-shell()
+Modification of [Powerline-Shell](https://github.com/banga/powerline-shell)
 ----------------------------------------------------------
 
 A Powerline style prompt for your shell
